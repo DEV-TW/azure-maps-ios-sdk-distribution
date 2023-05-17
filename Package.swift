@@ -21,7 +21,7 @@ let package = Package(
         .package(
             name: "MSAL",
             url: "https://github.com/AzureAD/microsoft-authentication-library-for-objc",
-            from: "1.1.0"
+            .exact("1.2.5")
         )
     ],
     targets: [
