@@ -2,9 +2,11 @@
 
 ## Installation
 
-1. In your Xcode iOS Project settings, under Project setting’s Package Dependencies, click on + button to add package dependency.
-2. In the appeared dialog, in the search bar in the top right corner, insert https://github.com/Azure/azure-maps-ios-sdk-distribution.git, for the version field, fill `1.0.0-pre.3`.
+1. In Xcode, show the Navigator, then select the Project Navigator view. Tap the project's name, then select the Project from the sidebar. Under Package Dependencies, Packages section, tap the + button to add a dependency.
+2. In the dialog that appears, tap the search bar in the top right corner, and enter https://github.com/DEV-TW/azure-maps-ios-sdk-distribution.git, and for the Dependency Rule, use Branch 'main'.
 3. Wait until packages finish resolution, click on Add Package to complete the dependency setup.
+
+The rest of the readme contains the original documentation.
 
 ![image003](https://user-images.githubusercontent.com/14032724/137169668-381a7fd2-70a8-410c-9d3b-278d0a3ffb6b.png)
 ![Screen Shot 2021-10-25 at 1 50 10 PM](https://user-images.githubusercontent.com/14032724/138641489-b1f32f67-6a77-4221-b35c-560a7b13623d.png)
